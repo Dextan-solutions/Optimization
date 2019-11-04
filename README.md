@@ -8,6 +8,6 @@
 % Phone: 2349034859219
 % Programming dates: May 2019 to June 2019  
 
-% Already published result can be found inside HTML folder
+% Already published result can be found inside HTML folder Or the pdf file called "CodeResult"
 
 % Please Run RealPSOPower.m
